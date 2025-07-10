@@ -68,8 +68,8 @@ chroma_db_advanced/
 data_large/
 *.pdf
 *.docx
-*.txt
 *.epub
+# Note: *.txt excluded here to allow requirements.txt
 
 # IDE and Editor files
 .vscode/
